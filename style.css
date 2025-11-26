@@ -1,0 +1,49 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background: #f4f4f4;
+	color: #333;
+  }
+  
+  header {
+	background: #00509e; /* azul corporativo */
+	color: white;
+	text-align: center;
+	padding: 50px 20px;
+  }
+  
+  header p {
+	font-size: 1.2em;
+	margin-top: 10px;
+  }
+  
+  section {
+	background: white;
+	margin: 20px auto;
+	padding: 20px;
+	max-width: 800px;
+	border-radius: 8px;
+  }
+  
+  h2 {
+	border-bottom: 2px solid #ddd;
+	padding-bottom: 5px;
+  }
+  
+  .item {
+	margin-bottom: 15px;
+  }
+  
+  ul {
+	list-style: square inside;
+  }
+  
+  footer {
+	text-align: center;
+	padding: 20px;
+	background: #00509e;
+	color: white;
+	margin-top: 20px;
+  }
+  
